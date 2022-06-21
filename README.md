@@ -1,1 +1,1 @@
-#This is my dwm config
+# This is my dwm config
